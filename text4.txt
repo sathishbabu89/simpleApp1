@@ -1,1 +1,2 @@
 my 4th file 
+This is text 4 .txt file
